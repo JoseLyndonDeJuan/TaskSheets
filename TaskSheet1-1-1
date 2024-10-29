@@ -1,4 +1,4 @@
-class helloWorldApp {
+class TaskSheet1-1-1 {
     public static void main(String[] args) {
         System.out.rintln("Kamusta Mundo!); // Display the string.
     }
